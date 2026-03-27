@@ -49,6 +49,16 @@ div {
 }
 
 
-
-
-
+.b{
+    /* display:block; */
+}
+.i{
+    Display:inline;
+}
+img{
+    display:inline-block;
+    width:150px;
+    height:150px;
+    padding:150px;
+    background-color:pink;
+}
